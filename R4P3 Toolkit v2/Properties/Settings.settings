@@ -1,7 +1,18 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="R4P3_Toolkit_v2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultWhite" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ignoreArray" Type="System.String" Scope="User">
+      <Value Profile="(Default)">remote,qtwebengine_persistant_storage,qtwebengine_cache,badges</Value>
+    </Setting>
+    <Setting Name="DefaultSaveLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Prompt</Value>
+    </Setting>
+    <Setting Name="CacheFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
 </SettingsFile>
